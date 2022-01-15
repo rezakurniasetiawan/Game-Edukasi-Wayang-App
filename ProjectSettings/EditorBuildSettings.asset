@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama.unity
+    guid: f1ec7ed76f1097940b0b6ae7a3f5fc75
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 4d90a91011135014bb6f3982b8a5b01e
+  - enabled: 1
+    path: Assets/Scenes/MenuKarakter.unity
+    guid: 242d036373ca42d469a2daefadb04f63
+  - enabled: 1
+    path: Assets/Scenes/MenuCerita.unity
+    guid: 482047171ddb3cf49929a618bdac04f0
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 15d90251709b3a54e8f5d88342346f19
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter1.unity
+    guid: 1f9ec62bf1c20314093995febc9ea48c
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita1.unity
+    guid: 98e8aed3f50b92b49b107853771d7609
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita2.unity
+    guid: b49663097cb0c5441808893237f0c47c
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita3.unity
+    guid: bbcac1607ea681746b86134976b4d1a1
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita4.unity
+    guid: 7f50494d2ccf9ff45897252c62feb9ee
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita5.unity
+    guid: 013b33c6c32206b43b167e03c04ba463
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita6.unity
+    guid: 28c4d0423c0073848852d8a88c236cba
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita7.unity
+    guid: 4649abfb7ff12bc499a9011a06f2c7f5
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita8.unity
+    guid: 52217b83bf282c9438875cbf2662d028
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita9.unity
+    guid: 7f970c7ac4baa1f4cb747f7adb2b1a61
+  - enabled: 1
+    path: Assets/Scenes/Daftar Cerita/Cerita10.unity
+    guid: 8f5e9888ee3abfe42b06c3b392da843a
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter2.unity
+    guid: 304e3f1504d943640a2aec5fcd5be16b
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter3.unity
+    guid: a52db7ec773a798488e4767972e28dc9
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter4.unity
+    guid: 2e97aba6d67f490459a80b6c92b84ca1
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter5.unity
+    guid: e2681145d51f0c540bb0741727aa07e5
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter6.unity
+    guid: 3b3a85702de361e4288c3ebe7931d9e5
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter7.unity
+    guid: 0a058902a94eb32489205de42e5ce6d3
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter8.unity
+    guid: ed15c58b5a694194193a62ef2edfa6ed
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter9.unity
+    guid: 6a456ce2225276d44aebd6ae382a5034
+  - enabled: 1
+    path: Assets/Scenes/Daftar Karakter/Karakter10.unity
+    guid: 4428c6592e203184983f7b7560e513a9
+  - enabled: 1
+    path: Assets/Scenes/Referensi3.unity
+    guid: 4bf7f3002a5b0a24c91cb6d1aa045007
+  - enabled: 1
+    path: Assets/Scenes/Referensi2.unity
+    guid: be83b1b93e92f1d47810f57199fd9519
+  - enabled: 1
+    path: Assets/Scenes/Referensi.unity
+    guid: f84cfa5b922a6b746a2ff6d1765060ff
+  m_configObjects: {}

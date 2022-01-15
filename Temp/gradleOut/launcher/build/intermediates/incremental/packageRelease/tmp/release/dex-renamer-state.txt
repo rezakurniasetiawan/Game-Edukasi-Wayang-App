@@ -1,0 +1,4 @@
+#Wed Jan 12 00:33:51 ICT 2022
+base.0=C\:\\Users\\rezak\\Documents\\Wayang App\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
